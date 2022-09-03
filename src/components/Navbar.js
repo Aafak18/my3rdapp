@@ -52,5 +52,4 @@ Navbar.defaultProps = {
     aboutText: 'about text here',
     socialMedia: 'social media info here',
     contactUs: 'contact information here'
-
 }
